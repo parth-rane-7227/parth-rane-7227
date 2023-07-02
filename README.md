@@ -1,4 +1,13 @@
 <h1 align="center">नमस्ते (Namaste)🙏🏻, I am Parth Rane 👋</h1>
+<table>
+  <td>
+<!-- <img src="https://github.com/pratikrk/pratikrk/blob/main/header.jpg"> -->
+  </td>
+  <td>
+<img  src="https://camo.githubusercontent.com/43d7ba8fee77106c83a549d2c7697466125a145743bcc783db096062aa0ab894/68747470733a2f2f632e74656e6f722e636f6d2f617a5a434a32597073476741414141692f70726f6772616d6d696e672e676966" alt=""gif>
+    </td>
+</table>  
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=parth-rane-7227&label=Profile%20views&color=0e75b6&style=flat" alt="parth-rane-7227" /> </p>
 
 <p align="left"> <a href="https://twitter.com/parth4342" target="blank"><img src="https://img.shields.io/twitter/follow/parth4342?logo=twitter&style=for-the-badge" alt="parth4342" /></a> </p>
