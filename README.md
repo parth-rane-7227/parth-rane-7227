@@ -1,6 +1,7 @@
 <h1 align="center">नमस्ते (Namaste)🙏🏻, I am Parth Rane 👋</h1>
 <table>
   <td>
+    <img src="parthgithub.png"/>
     ![parthgithub](https://github.com/parth-rane-7227/parth-rane-7227/assets/90836282/c09c8513-dc42-494a-95a9-0c98e4cc3d4b)
   </td>
   <td>
