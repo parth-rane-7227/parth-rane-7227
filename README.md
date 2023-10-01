@@ -1,4 +1,3 @@
-<link rel="stylesheet" href="style.css">
 <h1 align="center">नमस्ते (Namaste)🙏🏻, I am Parth Rane 👋</h1>
 <table>
   <td>
