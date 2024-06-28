@@ -4,9 +4,6 @@
     
    ![parthgithub](https://github.com/parth-rane-7227/parth-rane-7227/assets/90836282/c09c8513-dc42-494a-95a9-0c98e4cc3d4b)
   </td>
-  <td>
-<img   src="https://camo.githubusercontent.com/43d7ba8fee77106c83a549d2c7697466125a145743bcc783db096062aa0ab894/68747470733a2f2f632e74656e6f722e636f6d2f617a5a434a32597073476741414141692f70726f6772616d6d696e672e676966">
-    </td>
 </table>  
 
 ![](https://github-readme-stats.vercel.app/api?username=parth-rane-7227&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
